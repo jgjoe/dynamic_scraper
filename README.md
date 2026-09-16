@@ -86,5 +86,5 @@ python main.py
 
 **Jigwan Joe** — Backend · Data
 
-- GitHub: [@crushonyou2](https://github.com/crushonyou2)
+- GitHub: [@jgjoe](https://github.com/jgjoe)
 - Email: jigwan.joe@gmail.com
